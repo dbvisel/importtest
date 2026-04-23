@@ -1,3 +1,3 @@
-const addition = "This text was added by imported.js";
+const addition = "<li>This text was added by imported.js</li>";
 
 export { addition };
